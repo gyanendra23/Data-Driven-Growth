@@ -1,4 +1,4 @@
-# Data-Driven-Growth
+# Data-Driven-Growth Power BI , Excel 
 Interactive Power BI dashboard analyzing ₹1.2B business sales, profit, products, and regional trends for data-driven growth.
 # Turning Data into Strategy: ₹1.2B Business Snapshot
 
